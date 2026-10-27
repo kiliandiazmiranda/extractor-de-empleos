@@ -1,0 +1,8 @@
+{
+  "name": "Extractor de Empleo",
+  "description": "Extractor en tiempo real de ofertas de empleo desde LinkedIn, Computrabajo y El Empleo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
